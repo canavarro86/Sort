@@ -10,7 +10,7 @@ import static SortMethods.ShellSort.shellSort;
 
 public class Main {
     public static void main(String[] args) {
-        int length = 100000;
+        int length = 10;
         long [] newarray = new long[length];
         long [] newarray1 = new long[length];
         long [] newarray2 = new long[length];
