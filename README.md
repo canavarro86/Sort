@@ -1,5 +1,21 @@
 В рамках урока рассмотрели 2 вида сортировки.
 Сортировка вставкой показала себя эффективнее, чем пузырьком.
 Метод предложенный Java показал самый быстрый результат.
-В будущем программа будет оптимизирована, будет абстрактный класс, который будет выполнять основные действия с массивом,
+В будущем программа будет оптимизирована, будет абстрактный класс, который будет 
+выполнять основные действия с массивом,
 потому что дублирование кода ЗЛО!!! и реализованы сортировки Шеллом и слиянием.
+
+Результат работы программы
+Array is generating...
+Array was generated.
+Array was copied to new array.
+Array was copied to new array.
+Array's insert sort was started...
+Insert sort was finished
+Time is: 7395 ms.
+Array's bubble sort was started...
+Bubble sort was finished
+Time is: 21892 ms.
+Array's java's method sort was started...
+Array's java's method sort was finished
+Time is: 63 ms.
